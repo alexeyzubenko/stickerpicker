@@ -1,6 +1,8 @@
 {
   "packs": [
-    "heroesofdastorm.json"
+    "heroesofdastorm.json",
+    "Stalker_official.json",
+    "Dota2Items.json"
   ],
   "homeserver_url": "https://matrix.mowtree.ru"
 }
