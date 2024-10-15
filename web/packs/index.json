@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "heroesofdastorm.json"
+  ],
+  "homeserver_url": "https://matrix.mowtree.ru"
+}
